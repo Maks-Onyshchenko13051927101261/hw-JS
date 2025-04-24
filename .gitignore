@@ -137,3 +137,5 @@ dist
 
 # idea
 /.idea/
+# arrays
+/homework/arrays.js

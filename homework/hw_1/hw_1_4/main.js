@@ -1,7 +1,5 @@
-let firstName = "Максим";
-let middleName = "Миколайович";
-let age = "36 років";
+let firstName = prompt("Ім'я");
+let middleName = prompt("По-батькові");
+let age = prompt("Вік");
 
-prompt("Ім'я", firstName);
-prompt("По-батькові", middleName);
-prompt("Вік", age);
+console.log(firstName + " " + middleName + " " + age);
