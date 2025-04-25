@@ -1,4 +1,4 @@
-let x = false;
+let x = +prompt();
 
 if (!x) {
     x = "default";
