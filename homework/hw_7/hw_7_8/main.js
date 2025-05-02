@@ -31,3 +31,4 @@ const  prince = new Prince("Jakob", 23, 39);
 
 const cinderellaPrincess = cinderellas.find(cinderella => cinderella.footSize === prince.shoeSize);
 prince.wife = cinderellaPrincess;
+console.log(prince.wife.name);
