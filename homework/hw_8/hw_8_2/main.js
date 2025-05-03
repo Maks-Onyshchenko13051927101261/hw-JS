@@ -17,4 +17,4 @@ function cloneObject(obj) {
     throw new Error("Unexpected");
 }
 cloneObject({name: "val", age: 12, foo(){
-        console.log("hello");}, foobar(){bar}});
+        console.log("hello");}, foobar(){}});

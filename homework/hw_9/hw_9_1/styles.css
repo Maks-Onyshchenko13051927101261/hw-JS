@@ -1,0 +1,14 @@
+.wrap{
+    width: 800px;
+}
+.collapse{
+    height: 300px;
+}
+.alpha{
+    background-color: blueviolet;
+}
+.beta{
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
